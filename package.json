@@ -1,0 +1,28 @@
+{
+  "name": "gulp-roole-test",
+  "version": "0.1.0",
+  "description": "Test of Gulp Roole",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.5.0",
+    "gulp-util": "~2.2.12"
+  },
+  "devDependencies": {
+    "gulp-roole": "*",
+    "gulp": "*",
+    "gulp-util": "*"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisenytc/gulp-roole-test"
+  },
+  "author": "Christopher EnyTC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisenytc/gulp-roole-test/issues"
+  },
+  "homepage": "https://github.com/chrisenytc/gulp-roole-test"
+}
